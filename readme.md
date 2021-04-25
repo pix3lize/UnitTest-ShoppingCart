@@ -1,7 +1,7 @@
 ## Unit Test for Shopping Cart
 
 This application created with C# programming language that run with .NET core 3.1 please follow the instruction below 
-
+![](shoppingcart.gif)
 
 ## To Run 
 1. Please download .NET Core 3.1 SDK from this location https://www.microsoft.com/net/download/macos
